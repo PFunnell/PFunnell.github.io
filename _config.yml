@@ -5,25 +5,26 @@ on:
     branches:
       - main
 
-
-
-
 jobs:
   jekyll:
-    runs-on: ubuntu-22.04  # instead of ubuntu-latest or ubuntu-24.04
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
           bundler-cache: true
+
       - name: Install dependencies
         run: |
-        rm -f Gemfile.lock
-        bundle install
+          rm -f Gemfile.lock
+          bundle install
+
       - name: Build site
         run: bundle exec jekyll build
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
