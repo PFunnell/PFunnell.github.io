@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+
+
+
 jobs:
   jekyll:
     runs-on: ubuntu-22.04  # instead of ubuntu-latest or ubuntu-24.04
@@ -16,7 +19,9 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
       - name: Install dependencies
-        run: bundle install
+        run: |
+        rm -f Gemfile.lock
+        bundle install
       - name: Build site
         run: bundle exec jekyll build
       - name: Deploy to GitHub Pages
