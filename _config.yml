@@ -7,7 +7,7 @@ on:
 
 jobs:
   jekyll:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # instead of ubuntu-latest or ubuntu-24.04
     steps:
       - uses: actions/checkout@v3
       - name: Setup Ruby
