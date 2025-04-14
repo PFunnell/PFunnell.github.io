@@ -33,4 +33,4 @@ jobs:
 collections:
   notes:
     output: true
-    permalink: /notes/:title/
+    permalink: /:title/

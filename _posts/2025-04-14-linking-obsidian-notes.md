@@ -2,7 +2,7 @@
 layout: post
 title:  "Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian"
 date:   2025-04-15 10:00:00 +0000
-categories: obsidian ai python
+categories: [obsidian ai python]
 ---
 
 Over the past year, I’ve had over 1,300 conversations with ChatGPT — covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.
