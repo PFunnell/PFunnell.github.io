@@ -7,13 +7,13 @@ categories: [obsidian, ai, python]
 
 Over the past year, I’ve had over 1,300 conversations with ChatGPT — covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.
 
-That’s a rich dataset — but without structure, it’s just a Markdown graveyard.
+Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the cool conversations I recalled having. Having given ChatGPT the classic "tell me something you know about me that I might not know about myself" prompt I was also curious about what the overall content of the corpus was and what insights I could glean from it.
 
-So I built something to fix that.
+So I built something. Or rather we, ChatGPT and I, did, before anyone was talking about 'vibe coding' let alone 'lego coding'
 
 
 
-## 🛠 What I Built
+## 🛠 What we Built
 
 Two Python scripts:
 
