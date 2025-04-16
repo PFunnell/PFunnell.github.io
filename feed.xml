@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-16T18:23:32+00:00</updated><id>/feed.xml</id><title type="html">Build and Deploy Jekyll Site</title><entry><title type="html">Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian</title><link href="/obsidian/ai/python/2025/04/14/obsidian-linker.html" rel="alternate" type="text/html" title="Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian" /><published>2025-04-14T10:00:00+00:00</published><updated>2025-04-14T10:00:00+00:00</updated><id>/obsidian/ai/python/2025/04/14/obsidian-linker</id><content type="html" xml:base="/obsidian/ai/python/2025/04/14/obsidian-linker.html"><![CDATA[<p><img src="/assets/images/explorer.png" alt="The search for meaning" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-16T18:31:46+00:00</updated><id>/feed.xml</id><title type="html">Build and Deploy Jekyll Site</title><entry><title type="html">Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian</title><link href="/obsidian/ai/python/2025/04/14/obsidian-linker.html" rel="alternate" type="text/html" title="Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian" /><published>2025-04-14T10:00:00+00:00</published><updated>2025-04-14T10:00:00+00:00</updated><id>/obsidian/ai/python/2025/04/14/obsidian-linker</id><content type="html" xml:base="/obsidian/ai/python/2025/04/14/obsidian-linker.html"><![CDATA[<p><img src="/assets/images/explorer.png" alt="The search for meaning" /></p>
 
 <p>I’ve been a ChatGPT plus customer for over two years and during that time I’ve had over 1,300 conversations with it covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.</p>
 
@@ -107,7 +107,7 @@
 
 <h2 id="whats-in-a-name">What’s in a name?</h2>
 
-<p>We called this ‘Metisem’ a contraction of Metis, the pre-Olympian goddess of wisdom, counsel and deep thought and ‘semantic’. A bit pretentious maybe but you’ve got to have a name. :blush:</p>
+<p>We called this ‘Metisem’ a contraction of Metis, the pre-Olympian goddess of wisdom, counsel and deep thought and ‘semantic’. A bit pretentious maybe but you’ve got to have a name. 😊</p>
 
 <p>→ <a href="https://github.com/PFunnell/metisem">View it on GitHub</a></p>
 
