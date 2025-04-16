@@ -7,11 +7,21 @@ categories: [obsidian, ai, python]
 
 ![The search for meaning](/assets/images/explorer.png)
 
-Over the 2 years I’ve had over 1,300 conversations with ChatGPT covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.
+I’ve been a ChatGPT plus customer for over two years and during that time I've had over 1,300 conversations with it covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.
 
-Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the more interesting and useful conversations. Having given ChatGPT the classic "tell me something you know about me that I might not know about myself" prompt I was also curious about the overall content of the corpus and what insights I could glean from it.
+Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the more interesting and useful conversations that I knew were lurking in there somewhere. Having given ChatGPT the classic "tell me something you know about me that I might not know about myself" prompt I was also curious about the patterns in the the corpus and what insights into my thinking and interests I could glean from it.
 
-So I built something. Or rather we, ChatGPT and I, did. This has been around a while but I finally got it dusted off and updated the repo.
+I'd also been dabbling with [Obsidian](https://obsidian.md/) for note taking and pondering [second brain learning theory](https://petermeglis.com/blog/unlock-your-brains-potential-a-beginners-guide-to-obsidian-and-building-a-second-brain/).
+
+Then I discovered Superkikim's [Nexus AI Chat Importer](https://github.com/Superkikim/nexus-ai-chat-importer) plugin for Obsidian.
+
+This worked great, but the graph of the imported chats looked like a dandelion seed, with everything connected to a central index but no interrelationships. I wasn't about to go through over 1000 chats and manually link them, surely there's a smarter way to do this?
+
+So I built something. Or rather we, ChatGPT and I, did. 
+
+I was trained in coding in the early 90s but never really put it into action, becoming an IT generalist early in my career. However, in the last few years I've had the privilige to lead a team of talented developers which has led me back into the deeper tech side of things, wrangling with devops and cloud architecture, and rekindled an interest in coding. I'll never be as good a coder as the rest of the team but using gen-AI and applying over 30 years of knowledge I've got a few tricks up my sleeve. 
+
+This project has been around a while but I finally got it dusted off and updated the repo, learning a few things about git, VScode, GitHub copilot and dipping a toe into a few other things like Jekyll static websites and Ruby in the process.
 
 
 
