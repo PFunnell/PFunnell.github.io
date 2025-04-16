@@ -1,10 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-16T13:00:08+00:00</updated><id>/feed.xml</id><title type="html">Build and Deploy Jekyll Site</title><entry><title type="html">Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian</title><link href="/obsidian/ai/python/2025/04/14/obsidian-linker.html" rel="alternate" type="text/html" title="Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian" /><published>2025-04-14T10:00:00+00:00</published><updated>2025-04-14T10:00:00+00:00</updated><id>/obsidian/ai/python/2025/04/14/obsidian-linker</id><content type="html" xml:base="/obsidian/ai/python/2025/04/14/obsidian-linker.html"><![CDATA[<p><img src="/assets/images/explorer.png" alt="The search for meaning" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-16T17:51:06+00:00</updated><id>/feed.xml</id><title type="html">Build and Deploy Jekyll Site</title><entry><title type="html">Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian</title><link href="/obsidian/ai/python/2025/04/14/obsidian-linker.html" rel="alternate" type="text/html" title="Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian" /><published>2025-04-14T10:00:00+00:00</published><updated>2025-04-14T10:00:00+00:00</updated><id>/obsidian/ai/python/2025/04/14/obsidian-linker</id><content type="html" xml:base="/obsidian/ai/python/2025/04/14/obsidian-linker.html"><![CDATA[<p><img src="/assets/images/explorer.png" alt="The search for meaning" /></p>
 
-<p>Over the 2 years I’ve had over 1,300 conversations with ChatGPT covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.</p>
+<p>I’ve been a ChatGPT plus customer for over two years and during that time I’ve had over 1,300 conversations with it covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.</p>
 
-<p>Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the more interesting and useful conversations. Having given ChatGPT the classic “tell me something you know about me that I might not know about myself” prompt I was also curious about the overall content of the corpus and what insights I could glean from it.</p>
+<p>Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the more interesting and useful conversations that I knew were lurking in there somewhere. Having given ChatGPT the classic “tell me something you know about me that I might not know about myself” prompt I was also curious about the patterns in the the corpus and what insights into my thinking and interests I could glean from it.</p>
 
-<p>So I built something. Or rather we, ChatGPT and I, did. This has been around a while but I finally got it dusted off and updated the repo.</p>
+<p>I’d also been dabbling with <a href="https://obsidian.md/">Obsidian</a> for note taking and pondering <a href="https://petermeglis.com/blog/unlock-your-brains-potential-a-beginners-guide-to-obsidian-and-building-a-second-brain/">second brain learning theory</a>.</p>
+
+<p>Then I discovered Superkikim’s <a href="https://github.com/Superkikim/nexus-ai-chat-importer">Nexus AI Chat Importer</a> plugin for Obsidian.</p>
+
+<p>This worked great, but the graph of the imported chats looked like a dandelion seed, with everything connected to a central index but no interrelationships. I wasn’t about to go through over 1000 chats and manually link them, surely there’s a smarter way to do this?</p>
+
+<p>So I built something. Or rather we, ChatGPT and I, did.</p>
+
+<p>I was trained in coding in the early 90s but never really put it into action, becoming an IT generalist early in my career. However, in the last few years I’ve had the privilige to lead a team of talented developers which has led me back into the deeper tech side of things, wrangling with devops and cloud architecture, and rekindled an interest in coding. I’ll never be as good a coder as the rest of the team but using gen-AI and applying over 30 years of knowledge I’ve got a few tricks up my sleeve.</p>
+
+<p>This project has been around a while but I finally got it dusted off and updated the repo, learning a few things about git, VScode, GitHub copilot and dipping a toe into a few other things like Jekyll static websites and Ruby in the process.</p>
 
 <h2 id="-what-we-built">🛠 What we Built</h2>
 
