@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-16T18:13:14+00:00</updated><id>/feed.xml</id><title type="html">Build and Deploy Jekyll Site</title><entry><title type="html">Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian</title><link href="/obsidian/ai/python/2025/04/14/obsidian-linker.html" rel="alternate" type="text/html" title="Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian" /><published>2025-04-14T10:00:00+00:00</published><updated>2025-04-14T10:00:00+00:00</updated><id>/obsidian/ai/python/2025/04/14/obsidian-linker</id><content type="html" xml:base="/obsidian/ai/python/2025/04/14/obsidian-linker.html"><![CDATA[<p><img src="/assets/images/explorer.png" alt="The search for meaning" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-16T18:23:32+00:00</updated><id>/feed.xml</id><title type="html">Build and Deploy Jekyll Site</title><entry><title type="html">Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian</title><link href="/obsidian/ai/python/2025/04/14/obsidian-linker.html" rel="alternate" type="text/html" title="Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian" /><published>2025-04-14T10:00:00+00:00</published><updated>2025-04-14T10:00:00+00:00</updated><id>/obsidian/ai/python/2025/04/14/obsidian-linker</id><content type="html" xml:base="/obsidian/ai/python/2025/04/14/obsidian-linker.html"><![CDATA[<p><img src="/assets/images/explorer.png" alt="The search for meaning" /></p>
 
 <p>I’ve been a ChatGPT plus customer for over two years and during that time I’ve had over 1,300 conversations with it covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.</p>
 
-<p>Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the more interesting and useful conversations that I knew were lurking in there somewhere. Having given ChatGPT the classic “tell me something you know about me that I might not know about myself” prompt I was also curious about the patterns in the the corpus and what insights into my thinking and interests I could glean from it.</p>
+<p>Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the more interesting and useful conversations that I knew were lurking in there somewhere. Having given ChatGPT the classic “tell me something you know about me that I might not know about myself” prompt I was also curious about the patterns in the corpus and what insights into my thinking and interests I could glean from it.</p>
 
 <p>I’d also been dabbling with <a href="https://obsidian.md/">Obsidian</a> for note taking and pondering <a href="https://petermeglis.com/blog/unlock-your-brains-potential-a-beginners-guide-to-obsidian-and-building-a-second-brain/">second brain learning theory</a>.</p>
 
@@ -12,7 +12,7 @@
 
 <p>So I built something. Or rather we, ChatGPT and I, did.</p>
 
-<p>I was trained in coding in the early 90s but never really put it into action, becoming an IT generalist early in my career. However, in the last few years I’ve had the privilige to lead a team of talented developers which has led me back into the deeper tech side of things, wrangling with devops and cloud architecture, and rekindled an interest in coding. I’ll never be as good a coder as the rest of the team but using gen-AI and applying over 30 years of knowledge I’ve got a few tricks up my sleeve.</p>
+<p>I was trained in coding in the early 90s but never really put it into action, becoming an IT generalist early in my career. However, in the last few years I’ve had the privilige to lead a team of talented developers which has led me back into the deeper tech side of things, wrangling with devops and cloud architecture, and rekindled an interest in coding. I’ll never be as good a coder as the rest of the team but using gen-AI and applying over 30 years of career knowledge I’ve got a few tricks up my sleeve.</p>
 
 <p>This project has been around a while but I finally got it dusted off and updated the repo, learning a few things about git, VScode, GitHub copilot and dipping a toe into a few other things like Jekyll static websites and Ruby in the process.</p>
 
@@ -37,7 +37,7 @@
   <li>Calculates pairwise cosine similarity</li>
   <li>Adds Obsidian-style <code class="language-plaintext highlighter-rouge">[[links]]</code> to the bottom of each file</li>
   <li>Uses YAML frontmatter for tags (via <code class="language-plaintext highlighter-rouge">tagger.py</code>)</li>
-  <li>Runs locally with GPU support (tested on RTX 4070 in a Lenovo Legion Slim 5)</li>
+  <li>Runs locally with CUDA support (tested on RTX 4060 in a Lenovo Legion Slim 5)</li>
 </ul>
 
 <hr />
@@ -46,11 +46,11 @@
 
 <p><img src="/assets/images/metisem2.png" alt="Obsidian graph view" /></p>
 
-<p>^ This is a visualisation of my Obsidian vault after running the script — showing clusters of related notes linked by meaning, not keywords.</p>
+<p>^ This is a visualisation, using Obsidian’s in-built graph, of my vault after running the script, showing clusters of related notes linked by meaning, not keywords, and coloured by tags from a short high-level tag list that can be easily adjusted.</p>
 
 <p><img src="/assets/images/GPTethics.png" alt="Chat focus view" /></p>
 
-<p>^ And this is the first conversation I had on 9 Feb 2023, one of the more connected nodes.</p>
+<p>^ And this is the first conversation I had with ChatGPT on 9 Feb 2023, one of the more connected nodes.</p>
 
 <hr />
 
@@ -79,13 +79,13 @@
 
 <h2 id="-why-this-matters">🧠 Why This Matters</h2>
 
-<p>This is about uncovering patterns in how you think. When ChatGPT helps you ideate or explain something, that output shouldn’t be stuck on OpenAI’s servers or vanish into a markdown graveyard. It should become part of a living, evolving knowledge network.</p>
+<p>This is about uncovering patterns in how we think. When ChatGPT helps us ideate or explain something, that output shouldn’t be stuck on OpenAI’s servers or vanish into a markdown graveyard. It should become part of a living, evolving knowledge network.</p>
 
-<p>By letting AI link your own AI-generated content, you turn your conversations into a map of your intellectual journey.</p>
+<p>By letting AI link our own AI-generated content, we turn our conversations into a map of our intellectual journeys.</p>
 
-<p>And when visualised in Obsidian’s graph view you get an intuitively explorable map of your AI-enhanced second brain.</p>
+<p>And when visualised in Obsidian’s graph view we get an intuitively explorable map of our AI-enhanced second brain.</p>
 
-<hr />
+<p>This helps us find connections we would otherwise miss and to step up through layers of metacognition and cognitive offloading in a more productive and organised fashion.</p>
 
 <hr />
 
@@ -101,7 +101,13 @@
 
 <hr />
 
-<p>I’m thinking of turning this into an Obsidian plugin. If you think that sounds useful, let me know. Likewise, drop me a DM if you have ideas about where we could take this or what you could apply it to.</p>
+<p>I’m thinking of turning this into an Obsidian plugin. If that sounds useful let me know. Likewise, drop me a message if you have ideas about where we could take this or what you could apply it to.</p>
+
+<hr />
+
+<h2 id="whats-in-a-name">What’s in a name?</h2>
+
+<p>We called this ‘Metisem’ a contraction of Metis, the pre-Olympian goddess of wisdom, counsel and deep thought and ‘semantic’. A bit pretentious maybe but you’ve got to have a name. :blush:</p>
 
 <p>→ <a href="https://github.com/PFunnell/metisem">View it on GitHub</a></p>
 
