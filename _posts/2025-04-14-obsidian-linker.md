@@ -113,7 +113,7 @@ I’m thinking of turning this into an Obsidian plugin. If that sounds useful le
 
 ## What's in a name?
 
-We called this 'Metisem' a contraction of Metis, the pre-Olympian goddess of wisdom, counsel and deep thought and 'semantic'. A bit pretentious maybe but you've got to have a name. :blush: 
+We called this 'Metisem' a contraction of Metis, the pre-Olympian goddess of wisdom, counsel and deep thought and 'semantic'. A bit pretentious maybe but you've got to have a name. 😊
 
 → [View it on GitHub](https://github.com/PFunnell/metisem)
 
