@@ -82,6 +82,18 @@ python tagger.py vault_path \
   --apply-tags \
   --force-embeddings
 ```
+---
+
+## 🧠 Why This Matters
+
+This is about uncovering patterns in how you think. When ChatGPT helps you ideate or explain something, that output shouldn’t be stuck on OpenAI's servers or vanish into a markdown graveyard. It should become part of a living, evolving knowledge network.
+
+By letting AI link your own AI-generated content, you turn your conversations into a map of your intellectual journey.
+
+And when visualised in Obsidian's graph view you get an intuitively explorable map of your AI-enhanced second brain.
+
+---
+
 
 ---
 
@@ -95,10 +107,10 @@ python tagger.py vault_path \
 
 ---
 
-I’m thinking of turning this into an Obsidian plugin. If you think that sounds useful, let me know.
+I’m thinking of turning this into an Obsidian plugin. If you think that sounds useful, let me know. Likewise, drop me a DM if you have ideas about where we could take this or what you could apply it to.
 
 → [View it on GitHub](https://github.com/PFunnell/metisem)
 
 ---
 
-Let me know if you're trying to tame a similar pile of markdown chaos.
+
