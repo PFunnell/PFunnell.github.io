@@ -43,6 +43,10 @@ The goal? Build a **self-organising knowledge graph** out of exported ChatGPT ma
 
 ^ This is a visualisation of my Obsidian vault after running the script — showing clusters of related notes linked by meaning, not keywords.
 
+![Chat focus view](/assets/images/GPTethics.png)
+
+^ And this is the first conversation I had on 9 Feb 2023, one of the more connected nodes.
+
 ---
 
 ## ⚙️ Example Usage
