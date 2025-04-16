@@ -7,11 +7,11 @@ categories: [obsidian, ai, python]
 
 ![The search for meaning](/assets/images/explorer.png)
 
-Over the past year, I’ve had over 1,300 conversations with ChatGPT — covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.
+Over the 2 years I’ve had over 1,300 conversations with ChatGPT covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.
 
-Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the cool conversations I recalled having. Having given ChatGPT the classic "tell me something you know about me that I might not know about myself" prompt I was also curious about what the overall content of the corpus was and what insights I could glean from it.
+Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the more interesting and useful conversations. Having given ChatGPT the classic "tell me something you know about me that I might not know about myself" prompt I was also curious about the overall content of the corpus and what insights I could glean from it.
 
-So I built something. Or rather we, ChatGPT and I, did, before anyone was talking about 'vibe coding' let alone 'lego coding'
+So I built something. Or rather we, ChatGPT and I, did. This has been around a while but I finally got it dusted off and updated the repo.
 
 
 
@@ -39,7 +39,7 @@ The goal? Build a **self-organising knowledge graph** out of exported ChatGPT ma
 
 ## 📸 Here's the Result
 
-![Obsidian graph view](/assets/images/metisem1.png)
+![Obsidian graph view](/assets/images/metisem2.png)
 
 ^ This is a visualisation of my Obsidian vault after running the script — showing clusters of related notes linked by meaning, not keywords.
 
@@ -71,33 +71,19 @@ python tagger.py vault_path \
 
 ---
 
-## 🧪 What's Next
+## 🧪 What might come next
 
 - Visual overlays of cluster topics in the graph
-- GPT-generated summaries or categories
+- GPT-generated summaries
+- Semantically discovered hierearchical categories
 - Time-aware linking (chronological progression of ideas)
 - Interface it with Obsidian Canvas
 
 ---
 
-I’m thinking of turning this into a packaged tool — maybe even a plugin. If that sounds useful, let me know.
+I’m thinking of turning this into an Obsidian plugin. If you think that sounds useful, let me know.
 
-→ [View it on GitHub](#) _(coming soon)_
-
----
-
-## 🔖 Bonus: Tags I Use
-
-My `tags.txt` includes things like:
-
-- `ai_and_automation`
-- `neurodivergence`
-- `ethics_and_policy`
-- `education`
-- `arts_and_cognition`
-- `system_design`
-
-Each one maps to a description and is matched semantically — not by string matching — which feels like the future of note organisation.
+→ [View it on GitHub](https://github.com/PFunnell/metisem)
 
 ---
 
