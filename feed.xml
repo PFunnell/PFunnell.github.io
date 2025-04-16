@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-16T12:46:32+00:00</updated><id>/feed.xml</id><title type="html">Build and Deploy Jekyll Site</title><entry><title type="html">Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian</title><link href="/obsidian/ai/python/2025/04/14/obsidian-linker.html" rel="alternate" type="text/html" title="Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian" /><published>2025-04-14T10:00:00+00:00</published><updated>2025-04-14T10:00:00+00:00</updated><id>/obsidian/ai/python/2025/04/14/obsidian-linker</id><content type="html" xml:base="/obsidian/ai/python/2025/04/14/obsidian-linker.html"><![CDATA[<p><img src="/assets/images/explorer.png" alt="The search for meaning" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-16T13:00:08+00:00</updated><id>/feed.xml</id><title type="html">Build and Deploy Jekyll Site</title><entry><title type="html">Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian</title><link href="/obsidian/ai/python/2025/04/14/obsidian-linker.html" rel="alternate" type="text/html" title="Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian" /><published>2025-04-14T10:00:00+00:00</published><updated>2025-04-14T10:00:00+00:00</updated><id>/obsidian/ai/python/2025/04/14/obsidian-linker</id><content type="html" xml:base="/obsidian/ai/python/2025/04/14/obsidian-linker.html"><![CDATA[<p><img src="/assets/images/explorer.png" alt="The search for meaning" /></p>
 
 <p>Over the 2 years I’ve had over 1,300 conversations with ChatGPT covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.</p>
 
@@ -37,6 +37,10 @@
 <p><img src="/assets/images/metisem2.png" alt="Obsidian graph view" /></p>
 
 <p>^ This is a visualisation of my Obsidian vault after running the script — showing clusters of related notes linked by meaning, not keywords.</p>
+
+<p><img src="/assets/images/GPTethics.png" alt="Chat focus view" /></p>
+
+<p>^ And this is the first conversation I had on 9 Feb 2023, one of the more connected nodes.</p>
 
 <hr />
 
