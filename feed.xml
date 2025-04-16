@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-16T12:34:05+00:00</updated><id>/feed.xml</id><title type="html">Build and Deploy Jekyll Site</title><entry><title type="html">Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian</title><link href="/obsidian/ai/python/2025/04/14/obsidian-linker.html" rel="alternate" type="text/html" title="Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian" /><published>2025-04-14T10:00:00+00:00</published><updated>2025-04-14T10:00:00+00:00</updated><id>/obsidian/ai/python/2025/04/14/obsidian-linker</id><content type="html" xml:base="/obsidian/ai/python/2025/04/14/obsidian-linker.html"><![CDATA[<p><img src="/assets/images/explorer.png" alt="The search for meaning" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-16T12:46:32+00:00</updated><id>/feed.xml</id><title type="html">Build and Deploy Jekyll Site</title><entry><title type="html">Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian</title><link href="/obsidian/ai/python/2025/04/14/obsidian-linker.html" rel="alternate" type="text/html" title="Building a Semantic Knowledge Graph from ChatGPT Conversations in Obsidian" /><published>2025-04-14T10:00:00+00:00</published><updated>2025-04-14T10:00:00+00:00</updated><id>/obsidian/ai/python/2025/04/14/obsidian-linker</id><content type="html" xml:base="/obsidian/ai/python/2025/04/14/obsidian-linker.html"><![CDATA[<p><img src="/assets/images/explorer.png" alt="The search for meaning" /></p>
 
-<p>Over the past year, I’ve had over 1,300 conversations with ChatGPT — covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.</p>
+<p>Over the 2 years I’ve had over 1,300 conversations with ChatGPT covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.</p>
 
-<p>Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the cool conversations I recalled having. Having given ChatGPT the classic “tell me something you know about me that I might not know about myself” prompt I was also curious about what the overall content of the corpus was and what insights I could glean from it.</p>
+<p>Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the more interesting and useful conversations. Having given ChatGPT the classic “tell me something you know about me that I might not know about myself” prompt I was also curious about the overall content of the corpus and what insights I could glean from it.</p>
 
-<p>So I built something. Or rather we, ChatGPT and I, did, before anyone was talking about ‘vibe coding’ let alone ‘lego coding’</p>
+<p>So I built something. Or rather we, ChatGPT and I, did. This has been around a while but I finally got it dusted off and updated the repo.</p>
 
 <h2 id="-what-we-built">🛠 What we Built</h2>
 
@@ -34,7 +34,7 @@
 
 <h2 id="-heres-the-result">📸 Here’s the Result</h2>
 
-<p><img src="/assets/images/metisem1.png" alt="Obsidian graph view" /></p>
+<p><img src="/assets/images/metisem2.png" alt="Obsidian graph view" /></p>
 
 <p>^ This is a visualisation of my Obsidian vault after running the script — showing clusters of related notes linked by meaning, not keywords.</p>
 
@@ -64,37 +64,21 @@
 
 <hr />
 
-<h2 id="-whats-next">🧪 What’s Next</h2>
+<h2 id="-what-might-come-next">🧪 What might come next</h2>
 
 <ul>
   <li>Visual overlays of cluster topics in the graph</li>
-  <li>GPT-generated summaries or categories</li>
+  <li>GPT-generated summaries</li>
+  <li>Semantically discovered hierearchical categories</li>
   <li>Time-aware linking (chronological progression of ideas)</li>
   <li>Interface it with Obsidian Canvas</li>
 </ul>
 
 <hr />
 
-<p>I’m thinking of turning this into a packaged tool — maybe even a plugin. If that sounds useful, let me know.</p>
+<p>I’m thinking of turning this into an Obsidian plugin. If you think that sounds useful, let me know.</p>
 
-<p>→ <a href="#">View it on GitHub</a> <em>(coming soon)</em></p>
-
-<hr />
-
-<h2 id="-bonus-tags-i-use">🔖 Bonus: Tags I Use</h2>
-
-<p>My <code class="language-plaintext highlighter-rouge">tags.txt</code> includes things like:</p>
-
-<ul>
-  <li><code class="language-plaintext highlighter-rouge">ai_and_automation</code></li>
-  <li><code class="language-plaintext highlighter-rouge">neurodivergence</code></li>
-  <li><code class="language-plaintext highlighter-rouge">ethics_and_policy</code></li>
-  <li><code class="language-plaintext highlighter-rouge">education</code></li>
-  <li><code class="language-plaintext highlighter-rouge">arts_and_cognition</code></li>
-  <li><code class="language-plaintext highlighter-rouge">system_design</code></li>
-</ul>
-
-<p>Each one maps to a description and is matched semantically — not by string matching — which feels like the future of note organisation.</p>
+<p>→ <a href="https://github.com/PFunnell/metisem">View it on GitHub</a></p>
 
 <hr />
 
