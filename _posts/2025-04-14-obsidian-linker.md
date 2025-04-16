@@ -5,6 +5,8 @@ date:   2025-04-14 10:00:00 +0000
 categories: [obsidian, ai, python]
 ---
 
+![The search for meaning](/assets/images/explorer.png)
+
 Over the past year, I’ve had over 1,300 conversations with ChatGPT — covering everything from local government and AI ethics to neurodivergence, coding, and digital tools.
 
 Before OpenAI introduced the search feature I was getting frustrated with not being able to find some of the cool conversations I recalled having. Having given ChatGPT the classic "tell me something you know about me that I might not know about myself" prompt I was also curious about what the overall content of the corpus was and what insights I could glean from it.
